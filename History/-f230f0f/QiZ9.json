@@ -1,0 +1,15 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "type": "shell",
+            "command": "C:/users/ibjal/documents/c++stuff/Sugar/code/build.bat", 
+            "group": 
+            {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}

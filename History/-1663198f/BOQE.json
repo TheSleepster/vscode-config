@@ -1,0 +1,8 @@
+{
+    "editor.fontFamily": "Liberation Mono",
+    "editor.cursorStyle": "block",
+    "editor.showFoldingControls": "never",
+    "editor.autoIndent": "full",
+    "editor.bracketPairColorization.enabled": false,
+    "editor.colorDecorators": false
+}
